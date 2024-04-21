@@ -1,1 +1,0 @@
-<h1>NFT3D main page</h1>
