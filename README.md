@@ -8,8 +8,8 @@ To install dependencies:
 bun install
 ```
 
-To run:
+To run ton scripts:
 
 ```bash
-bun run step[number].ts
+bun run ./ton/step[number].ts
 ```
